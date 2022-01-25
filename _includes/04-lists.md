@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+<ul>
+  <li>Norway</li>
+  <li>Canada</li>
+  </ul>
