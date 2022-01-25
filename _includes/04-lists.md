@@ -1,4 +1,3 @@
-<ul>
-  <li>Norway</li>
-  <li>Canada</li>
-  </ul>
+* Canada
+* Norway
+* Australia
